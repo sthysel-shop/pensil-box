@@ -1,7 +1,7 @@
 # Pensil Box
 
-![Box](pics/box.jpg)
 ![Front](pics/open-front.jpg)
+![Box](pics/box.jpg)
 ![Side](pics/open-side.jpg)
 
 # Notes
